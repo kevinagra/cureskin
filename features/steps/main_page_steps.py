@@ -13,6 +13,3 @@ def click_cart(context):
 def shop_all_BTN(context):
     context.app.main_page.click_shop_all()
 
-
-
-

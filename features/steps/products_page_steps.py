@@ -8,3 +8,4 @@ def verify_products_header(context):
 
     def verify_products_header(self):
         self.wait_for_element_appear(*self.SEE_DEALS)
+

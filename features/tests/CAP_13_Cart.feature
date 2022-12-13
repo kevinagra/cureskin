@@ -6,3 +6,4 @@ Feature: Cart functionality
     When Click on cart icon
     Then Verify the empty cart
 
+

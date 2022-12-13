@@ -6,3 +6,4 @@ Feature: Shop All functionality
     When Click on Shop All button
     Then Verify the Products header
 
+

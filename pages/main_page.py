@@ -18,3 +18,4 @@ class MainPage(Page):
     def click_shop_all(self):
         self.click(*self.SHOP_ALL_BTN)
 
+
