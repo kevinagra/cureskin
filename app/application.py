@@ -1,8 +1,8 @@
 from pages.main_page import MainPage
-from pages.sign_in_page import SignInPage
-from pages.empty_cart_page import EmptyCartPage
-from pages.results_page import ResultsPage
-from pages.product_page import ProductPage
+from pages2.sign_in_page import SignInPage
+from pages2.empty_cart_page import EmptyCartPage
+from pages2.results_page import ResultsPage
+from pages2.product_page import ProductPage
 
 class Application:
 
