@@ -17,3 +17,7 @@ def shop_all_BTN(context):
 def click_product(context):
     context.app.main_page.click_product()
 
+@when('Click on View All button')
+def click_view_all(context):
+    context.app.main_page.click_view_all()
+

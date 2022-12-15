@@ -27,3 +27,4 @@ class ProductPage(Page):
     def verify_see_deals(self):
         self.wait_for_element_appear(*self.SEE_DEALS)
 
+

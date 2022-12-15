@@ -23,3 +23,4 @@ def verify_reviews_section(context):
         actual_result = self.driver.find_element(*self.CUSTOMER_REVIEWS_HEADER).text
         assert expected_result == actual_result, f'Expected -> {expected_result}, but got -> {actual_result}'
 
+
