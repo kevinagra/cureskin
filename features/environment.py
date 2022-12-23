@@ -4,6 +4,10 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.keys import Keys
 from app.application import Application
 
+# Allure commands: (1) run, (2) generate report:
+# behave -f allure_behave.formatter:AllureFormatter -o test_results/ features/tests/CAP_72_View_All.feature
+# allure serve test_results/
+
 # Standard mode - PyCharm:
 # def browser_init(context):
 
