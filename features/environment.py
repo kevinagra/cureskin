@@ -34,7 +34,7 @@ def browser_init(context, test_case):
             "osVersion": "11",
             "browserVersion": "latest",
             "projectName": "CureSkin",
-            "buildName": "CAP_13_Cart.feature",
+            "buildName": "CAP_25_Reviews.feature",
             "local": "false",
             "networkLogs": "true",
             "seleniumVersion": "3.14.0",
